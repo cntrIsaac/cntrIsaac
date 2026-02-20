@@ -28,10 +28,8 @@ Si quieres que destaque tecnologías específicas o proyectos, dímelo y las pon
 
 ## 🏆 Proyectos destacados
 
-- Proyecto A — API REST con Java + Spring Boot (documentación OpenAPI, despliegue en Docker)
-- Proyecto B — Aplicación fullstack con Next.js + Node.js (autenticación, SSR, CI/CD)
-
-Escribe qué repositorios quieres destacar y añadiré una tarjeta para cada uno con descripción, techs y enlace directo.
+- Pokemon Edición Esmeralda (copia) — Recreación / copia del juego Pokémon Edición Esmeralda (proyecto personal).
+- ECIWISE+ — Herramienta web para agendar tutorías, acceder a contenido académico y ver el progreso académico de cada estudiante en la universidad (tutorías, contenido y seguimiento de desempeño).
 
 ## 📊 GitHub Stats
 
