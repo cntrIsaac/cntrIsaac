@@ -1,6 +1,5 @@
 <!-- Improved ReadMe - edited by GitHub Copilot assistant -->
 
-# Isaac Palomo (cntrIsaac) 🚀
 
 <p align="center">
 	<img src="assets/banner.svg" alt="Banner" width="100%" />
