@@ -2,6 +2,10 @@
 
 # Isaac Palomo (cntrIsaac) 🚀
 
+<p align="center">
+	<img src="assets/banner.svg" alt="Banner" width="100%" />
+</p>
+
 > Estudiante de Ingeniería de Sistemas (en formación) y desarrollador full‑stack. Me apasiona resolver problemas reales con código limpio, escalable y bien pensado. Aprendo rápido y disfruto explorar nuevas tecnologías.
 
 ## 🌟 Destacado
