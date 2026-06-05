@@ -10,7 +10,7 @@
 ## 🌟 Destacado
 
 - **Especialidades:** Backend en Java y Node.js, APIs REST/OpenAPI, bases de datos (Postgres, MongoDB), y despliegue en la nube.
-- **Herramientas favoritas:** Docker, GitHub Actions, Maven, Next.js y Flutter.
+- **Herramientas favoritas:** n8n, Docker, GitHub Actions, Maven, Next.js y Flutter.
 
 ## 🌐 Conecta conmigo
 
